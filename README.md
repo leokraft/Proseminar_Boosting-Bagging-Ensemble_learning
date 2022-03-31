@@ -1,1 +1,1 @@
-# Proseminar_Boosting-Bagging-Ensemble_learning
+# Proseminar - Boosting, Bagging and Ensemble learning
