@@ -1,6 +1,6 @@
 # Proseminar - Boosting, Bagging and Ensemble learning
 
-This seminary paper has been written for the course "Proseminar: Advanced Topics in Machine Learning" at Karlsruhe Institute of Technology (KIT).
+This seminary paper has been written for the course "Proseminar: Advanced Topics in Machine Learning" at Karlsruhe Institute of Technology (KIT). The topic for this paper was "Boosting, Bagging and Ensemble learning".\
 The full document can be found [here](https://raw.githubusercontent.com/leokraft/Proseminar_Boosting-Bagging-Ensemble_learning/main/seminary_paper/Proseminar_Boosting_Bagging_and_Ensemble_learning.pdf).
 
 ## Abstract
@@ -18,8 +18,8 @@ is provided to guide future decisions on which methods to choose.
 ## Running the code
 
 To run the provided code you need the dependencies listed inside the `requirements.txt`.\
-These can be installed automatically by running:
+These can be automatically installed by running:
 
-```shell
+```sh
 pip install -r requirements.txt
 ```
