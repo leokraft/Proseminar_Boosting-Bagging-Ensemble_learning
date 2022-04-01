@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{lrrrr}
+    \toprule
+    method & $M$ & $N$ & training accuracy & test accuracy \\
+    \midrule
+    small decision tree     & 1 & 10    & 0.984  & 0.907 \\
+    large decision tree     & 1 & 100   & 1.0  & 0.892 \\
+    random forest  & 10 & 10  & 0.969  & 0.941 \\
+    \bottomrule
+    \end{tabular}
+    \caption{Comparison between individual decision trees and a random forest.\\$M$ denotes the number of learners, $N$ denotes the depth of each decision tree.}
+    \label{tab:random_forest}
+\end{table}

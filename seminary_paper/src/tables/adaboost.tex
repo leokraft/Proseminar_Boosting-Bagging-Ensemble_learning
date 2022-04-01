@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{lrrrr}
+    \toprule
+    method & $M$ & $N$ & training accuracy & test accuracy \\
+    \midrule
+    decision stump          & 1     & 1     & 0.721      & 0.721 \\
+    large decision tree     & 1     & 100   & 1.0       & 0.714 \\
+    AdaBoost           & 100   & 1     & 0.863      & 0.786 \\
+    \bottomrule
+    \end{tabular}
+    \caption{Comparison between individual decision trees and AdaBoost.\\$M$ denotes the number of learners, $N$ denotes the depth of each decision tree.}
+    \label{tab:adaboost}
+\end{table}
