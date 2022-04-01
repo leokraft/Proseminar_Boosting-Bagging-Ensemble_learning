@@ -17,7 +17,7 @@ is provided to guide future decisions on which methods to choose.
 
 ## Running the code
 
-To run the provided code you need the dependencies listed inside the `requirements.txt`.\
+To run the provided code you need the dependencies listed inside the `code/requirements.txt`.\
 These can be automatically installed by running:
 
 ```sh
