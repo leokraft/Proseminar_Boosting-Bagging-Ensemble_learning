@@ -1,7 +1,7 @@
 # Proseminar - Boosting, Bagging and Ensemble learning
 
 This seminary paper has been written for the course "Proseminar: Advanced Topics in Machine Learning" at Karlsruhe Institute of Technology (KIT). The topic for this paper was "Boosting, Bagging and Ensemble learning".\
-The full document can be found [here](https://raw.githubusercontent.com/leokraft/Proseminar_Boosting-Bagging-Ensemble_learning/main/seminary_paper/Proseminar_Boosting_Bagging_and_Ensemble_learning.pdf).
+The full document can be found <a href="https://raw.githubusercontent.com/leokraft/Proseminar_Boosting-Bagging-Ensemble_learning/main/seminary_paper/Proseminar_Boosting_Bagging_and_Ensemble_learning.pdf" target="_blank">here</a>.
 
 ## Abstract
 
